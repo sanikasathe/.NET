@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\lab_work\\deligates\\replace_method-lamda_exp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEAD0C-8809-4FD4-98D8-6303F163D2A7}|replace_method-lamda_exp\\replace_method-lamda_exp.csproj|d:\\.net\\lab_work\\deligates\\replace_method-lamda_exp\\replace_method-lamda_exp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FEAD0C-8809-4FD4-98D8-6303F163D2A7}|replace_method-lamda_exp\\replace_method-lamda_exp.csproj|solutionrelative:replace_method-lamda_exp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\lab_work\\deligates\\replace_method-lamda_exp\\replace_method-lamda_exp\\Program.cs",
+              "RelativeDocumentMoniker": "replace_method-lamda_exp\\Program.cs",
+              "ToolTip": "D:\\.NET\\lab_work\\deligates\\replace_method-lamda_exp\\replace_method-lamda_exp\\Program.cs",
+              "RelativeToolTip": "replace_method-lamda_exp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:41:16.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

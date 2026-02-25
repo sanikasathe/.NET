@@ -1,0 +1,15 @@
+D:\.NET\lab_work\deligates\calculator\calculator\bin\Debug\net10.0\calculator.exe
+D:\.NET\lab_work\deligates\calculator\calculator\bin\Debug\net10.0\calculator.deps.json
+D:\.NET\lab_work\deligates\calculator\calculator\bin\Debug\net10.0\calculator.runtimeconfig.json
+D:\.NET\lab_work\deligates\calculator\calculator\bin\Debug\net10.0\calculator.dll
+D:\.NET\lab_work\deligates\calculator\calculator\bin\Debug\net10.0\calculator.pdb
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.AssemblyInfoInputs.cache
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.AssemblyInfo.cs
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.csproj.CoreCompileInputs.cache
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.sourcelink.json
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.dll
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\refint\calculator.dll
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.pdb
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\calculator.genruntimeconfig.cache
+D:\.NET\lab_work\deligates\calculator\calculator\obj\Debug\net10.0\ref\calculator.dll

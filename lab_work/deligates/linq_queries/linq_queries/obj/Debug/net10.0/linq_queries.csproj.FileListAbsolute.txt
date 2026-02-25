@@ -1,0 +1,15 @@
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\bin\Debug\net10.0\linq_queries.exe
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\bin\Debug\net10.0\linq_queries.deps.json
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\bin\Debug\net10.0\linq_queries.runtimeconfig.json
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\bin\Debug\net10.0\linq_queries.dll
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\bin\Debug\net10.0\linq_queries.pdb
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.AssemblyInfoInputs.cache
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.AssemblyInfo.cs
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.csproj.CoreCompileInputs.cache
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.sourcelink.json
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.dll
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\refint\linq_queries.dll
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.pdb
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\linq_queries.genruntimeconfig.cache
+D:\.NET\lab_work\deligates\linq_queries\linq_queries\obj\Debug\net10.0\ref\linq_queries.dll

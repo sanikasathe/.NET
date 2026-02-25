@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "replace_method-lamda_exp/1.0.0": {
+        "runtime": {
+          "replace_method-lamda_exp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "replace_method-lamda_exp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

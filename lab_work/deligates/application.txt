@@ -1,0 +1,118 @@
+1️⃣ Event Handling (Very Common)
+
+📌 Used in:
+
+Windows Forms applications
+
+WPF applications
+
+ASP.NET applications
+
+Example:
+
+Button Click
+
+Form Load
+
+Mouse Events
+
+👉 When a user clicks a button, a delegate calls the assigned method.
+
+2️⃣ Callback Methods
+
+📌 Used when:
+
+One method needs to notify another method after finishing work.
+
+Background tasks complete execution.
+
+Example:
+
+File upload complete
+
+Payment success notification
+
+API response received
+
+3️⃣ LINQ Queries (Very Common in Industry)
+
+Delegates are used internally in:
+
+Where()
+
+Select()
+
+OrderBy()
+
+Any()
+
+Count()
+
+Example:
+
+var result = employees.Where(e => e.Salary > 50000);
+
+Here, the lambda expression is converted into a delegate.
+
+4️⃣ Asynchronous Programming
+
+📌 Used in:
+
+Task
+
+async/await
+
+Multithreading
+
+Example:
+
+Running background processes
+
+Sending emails asynchronously
+
+Processing large data without freezing UI
+
+5️⃣ Middleware in ASP.NET Core
+
+In web development companies, delegates are used in:
+
+Request pipelines
+
+Authentication middleware
+
+Logging middleware
+
+Each request passes through a chain of delegate methods.
+
+6️⃣ Logging Systems
+
+Many companies use delegates to:
+
+Log errors
+
+Track user actions
+
+Audit system events
+
+Example:
+When an error occurs → multiple methods execute:
+
+Save log in file
+
+Send email to admin
+
+Store in database
+
+7️⃣ Real-Time Systems
+
+📌 Used in:
+
+Stock trading apps
+
+Gaming engines
+
+Notification systems
+
+Chat applications
+
+Delegates help trigger multiple actions when an event occurs.
