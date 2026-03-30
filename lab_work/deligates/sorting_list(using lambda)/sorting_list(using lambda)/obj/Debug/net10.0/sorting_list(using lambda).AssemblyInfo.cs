@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sorting_list(using lambda)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf65bbf9a0bd2892001f767727d1389c9f694b2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2afe0e52b2bbe12f7b4e179ef3526030ac944e5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("sorting_list(using lambda)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sorting_list(using lambda)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

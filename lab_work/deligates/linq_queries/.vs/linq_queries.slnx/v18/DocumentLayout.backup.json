@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\.NET\\lab_work\\deligates\\linq_queries\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74649671-6BDC-4236-8957-66430935956B}|linq_queries\\linq_queries.csproj|d:\\.net\\lab_work\\deligates\\linq_queries\\linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74649671-6BDC-4236-8957-66430935956B}|linq_queries\\linq_queries.csproj|solutionrelative:linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0566A91-8131-3E0A-E700-2910323C1456}|linq_queries\\linq_queries.csproj|d:\\.net\\lab_work\\deligates\\linq_queries\\linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0566A91-8131-3E0A-E700-2910323C1456}|linq_queries\\linq_queries.csproj|solutionrelative:linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "linq_queries\\Program.cs",
               "ToolTip": "D:\\.NET\\lab_work\\deligates\\linq_queries\\linq_queries\\Program.cs",
               "RelativeToolTip": "linq_queries\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T06:02:20.034Z",
               "EditorCaption": ""
