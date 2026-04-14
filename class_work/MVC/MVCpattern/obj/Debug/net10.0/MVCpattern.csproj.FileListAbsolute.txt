@@ -1,9 +1,0 @@
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\rpswa.dswa.cache.json
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.GeneratedMSBuildEditorConfig.editorconfig
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.AssemblyInfoInputs.cache
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.AssemblyInfo.cs
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.csproj.CoreCompileInputs.cache
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.MvcApplicationPartsAssemblyInfo.cache
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.RazorAssemblyInfo.cache
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.RazorAssemblyInfo.cs
-D:\.NET\class_work\MVC\MVCpattern\obj\Debug\net10.0\MVCpattern.sourcelink.json
