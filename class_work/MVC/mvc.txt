@@ -1,0 +1,13 @@
+MVC=>model view controller 
+MVC-->it is design pattern or architecture used to organize code in web application.
+model-->data layer->handles data and bussiness logic,communicates with db
+public class Student{
+    public string(get,set)
+}
+view--->UI
+
+data annotation--->are attributes used in model class to define validation rules
+properties--->[Required],
+              stringlength(50)--password
+              [emailaddress]
+              [Range(18,20)]---->age
