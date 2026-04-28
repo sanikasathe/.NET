@@ -1,0 +1,58 @@
+@model List<OnlineBookStore.Models.Book>
+
+@if (ViewBag.Success == true)
+{
+    <script>
+        alert("Login successful!");
+    </script>
+}
+
+<h2>Available Books</h2>
+
+<p>
+    Logged in as: <b>@ViewBag.User</b> |
+    Role: <b>@ViewBag.Role</b>
+</p>
+
+@if (ViewBag.Role == "Admin")
+{
+    <a asp-action="Create">Add New Book</a>
+    <br /><br />
+}
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+
+            @if (ViewBag.Role == "Admin")
+            {
+                <th>Actions</th>
+            }
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>₹@book.Price</td>
+
+                @if (ViewBag.Role == "Admin")
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@book.Id">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@book.Id"
+                           onclick="return confirm('Delete this book?')">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

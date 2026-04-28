@@ -1,0 +1,25 @@
+@model OnlineBookStore.Models.User
+
+<h2>Student Registration</h2>
+
+<form asp-action="Register" method="post">
+    
+    <label>Email</label>
+    <input asp-for="Email" placeholder="Enter email" />
+
+    <label>Password</label>
+    <input asp-for="Password" type="password" placeholder="Set password" />
+
+    <br /><br />
+
+    <button type="submit">Register</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<br />
+
+<a asp-action="Index">Back to Login</a>
